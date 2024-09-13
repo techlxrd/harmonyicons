@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'harmonyos';
-  src:  url('https://harmonyicons.pages.dev/fonts/harmonyos.eot?83dcbu');
-  src:  url('https://harmonyicons.pages.dev/fonts/harmonyos.eot?83dcbu#iefix') format('embedded-opentype'),
-    url('https://harmonyicons.pages.dev/fonts/harmonyos.ttf?83dcbu') format('truetype'),
-    url('https://harmonyicons.pages.dev/fonts/harmonyos.woff?83dcbu') format('woff'),
-    url('https://harmonyicons.pages.dev/fonts/harmonyos.svg?83dcbu#harmonyos') format('svg');
+  src:  url('fonts/harmonyos.eot?83dcbu');
+  src:  url('fonts/harmonyos.eot?83dcbu#iefix') format('embedded-opentype'),
+    url('fonts/harmonyos.ttf?83dcbu') format('truetype'),
+    url('fonts/harmonyos.woff?83dcbu') format('woff'),
+    url('fonts/harmonyos.svg?83dcbu#harmonyos') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
