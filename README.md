@@ -1,6 +1,8 @@
 # HarmonyIcons
 
 **HarmonyIcons** is a collection of official HarmonyOS symbols designed for use on the web.
+Visit the [HarmonyIcons Website](https://harmonyicons.pages.dev) for the symbol names. 
+
 
 ## Usage Guide
 
