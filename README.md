@@ -1,7 +1,7 @@
 # HarmonyIcons
 The official HarmonyOS symbols made for the web
 # Usage guide
-Add this in < head> </ head>
+Add the styles < head> </ head>
 
 ```bash
 <link rel="stylesheet" href="https://harmonyicons.pages.dev/hmicons.css">
@@ -15,7 +15,7 @@ Or
 ```bash
 <span class="hm-upload-filled"></span>
 ```
-The symbols can be stiled by adding 
+The symbols can be styled by adding 
 ```bash
 <i style="font-size:1;color:red" class="hm-upload-filled">
 ```
@@ -26,6 +26,4 @@ or add a custom class to the symbols
 ```bash
 <i class="icon hm-upload-filled"></i>
 ```
-
-
-
+### Enjoy!
