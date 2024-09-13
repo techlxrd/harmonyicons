@@ -1,29 +1,40 @@
 # HarmonyIcons
-The official HarmonyOS symbols made for the web
-# Usage guide
-Add the styles < head> </ head>
 
-```bash
+**HarmonyIcons** is a collection of official HarmonyOS symbols designed for use on the web.
+
+## Usage Guide
+
+To get started, include the HarmonyIcons stylesheet in the `<head>` of your HTML:
+
+```html
 <link rel="stylesheet" href="https://harmonyicons.pages.dev/hmicons.css">
 ```
-Add some icons 
-```bash
-# Start adding symbols
+You can add icons to your page using either of the following methods:
+```icon
 <i class="hm-upload-filled"></i>
 ```
 Or
-```bash
+```icon
 <span class="hm-upload-filled"></span>
 ```
-The symbols can be styled by adding 
-```bash
+# Customizing the symbols
+You can style icons directly using inline styles: 
+```icon
 <i style="font-size:1;color:red" class="hm-upload-filled">
 ```
-or add a custom class to the symbols
-```bash
-.icon{font-size:1;color:red;}
-```
-```bash
+Alternatively, you can define a custom class for more consistent styling:
+```icon
+<style>
+  .icon {
+    font-size: 1rem;
+    color: red;
+  }
+</style>
+
 <i class="icon hm-upload-filled"></i>
 ```
+
+
+
 ### Enjoy!
+Feel free to customize and use HarmonyIcons how you want to enhance your web projects.
