@@ -9,6 +9,9 @@
   font-style: normal;
   font-display: block;
 }
+.hm-icons{
+font-size:27px;
+} 
 
 [class^="hm-"], [class*=" hm-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
