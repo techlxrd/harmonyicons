@@ -2,6 +2,7 @@
 
 **HarmonyIcons** is a collection of official HarmonyOS symbols designed for use on the web.
 Visit the [HarmonyIcons Website](https://harmonyicons.pages.dev) for the symbol names. 
+Compatible with [Framework7](https:// framework7.io) also. 
 
 
 ## Usage Guide
@@ -27,13 +28,13 @@ You can style icons directly using inline styles:
 Alternatively, you can define a custom class for more consistent styling:
 ```icon
 <style>
-  .icon {
+  .hm-icons {
     font-size: 1rem;
     color: red;
   }
 </style>
 
-<i class="icon hm-upload-filled"></i>
+<i class="hm-icons hm-upload-filled"></i>
 ```
 
 
