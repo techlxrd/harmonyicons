@@ -10,7 +10,7 @@ Compatible with [Framework7](https:// framework7.io) also.
 To get started, include the HarmonyIcons stylesheet in the `<head>` of your HTML:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Outland3r2007/harmonyicons@hm/hmicons.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Outland3r2007/harmonyicons@latest/hmicons.css">
 ```
 You can add icons to your page using either of the following methods:
 ```icon
